@@ -66,6 +66,7 @@ p:hover {
 }
 .mom2 {
     display: flex;
+    justify-content: space-around;
 }
 .column2,.column3 {
     margin-left: 115px;
@@ -205,12 +206,9 @@ input {
     border: none;
     margin-left: 57px;
 }
-.end,.mom2{
-    width: 82.5vw;
-}
 .end {
     margin-top: 4%;
-
+    width: 89%;
 }
 .sub-buttontxt,.form-buttontxt {
     color: #ffffff;
